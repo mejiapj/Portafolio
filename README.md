@@ -1,5 +1,5 @@
 # Portafolio
-![Port](https://i.postimg.cc/ydkR2sLS/imagen.png)
+![Port](https://www.clarisoft.com/wp-content/uploads/2018/02/reactjs-and-nodejs-development-services.jpg)
 
 <h1 align="center"> Hi, my name is Jorge! 👋 </h1>
 <hr/>
