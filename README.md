@@ -70,14 +70,14 @@ const jorgeMejia = {
 <div>
   <h4>English</h4>
   <p>
-      
+Technical Professional specialized in Application Development with a strong background in Computer Science and Informatics. I have experience as a Senior Systems Analyst, excelling in the development and implementation of Management, Financial, Logistics, and other Information Systems. Proficient in handling large databases and managing Windows networks and Databases. I also possess skills in hardware and network technical support, along with knowledge in Accounting, Imports, Budgeting, Programming, and Statistics.      
   </p>
 </div>
 
 <div>
   <h4>Spanish</h4>
   <p>
-Technical Professional specialized in Application Development with a strong background in Computer Science and Informatics. I have experience as a Senior Systems Analyst, excelling in the development and implementation of Management, Financial, Logistics, and other Information Systems. Proficient in handling large databases and managing Windows networks and Databases. I also possess skills in hardware and network technical support, along with knowledge in Accounting, Imports, Budgeting, Programming, and Statistics.
+Profesional Técnico especializado en Desarrollo de Aplicaciones con una sólida formación en Computación e Informática. Cuento con experiencia como Analista de Sistemas Senior, destacándome en el desarrollo e implementación de sistemas de Información Gerencial, Financieros, Logísticos y más. Experto en el manejo de grandes bases de datos y administración de redes Windows y Bases de Datos. También poseo habilidades en soporte técnico de hardware y redes, junto con conocimientos en Contabilidad, Importaciones, Presupuesto, Programación y Estadística.
   </p>
 </div>
 
